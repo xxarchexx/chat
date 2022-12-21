@@ -1,0 +1,3 @@
+cmd/cmd
+**/.env
+cmd/__debug_bin 
